@@ -1,3 +1,6 @@
+
+![Build Status](https://github.com/nitintf/ipaddress-cli/actions/workflows/go.yml/badge.svg)
+
 # IP Address CLI Tool
 
 This is a command-line tool for tracking and gathering information about IP addresses. It allows you to retrieve data about a specific IP address, including details like city, region, country, location, timezone, and postal code.
