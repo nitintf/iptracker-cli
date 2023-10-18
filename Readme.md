@@ -11,7 +11,7 @@ To install the IP Address CLI Tool, follow these steps:
 2. Use `go get` to install the CLI tool and its dependencies:
 
 ```shell
-go get github.com/nitintf/ipaddress-cli
+go get github.com/nitintf/ipaddress
 ```
 
 3. Once the installation is complete, you can use the `ipaddress` command in your terminal.
