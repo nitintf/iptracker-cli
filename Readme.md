@@ -23,10 +23,10 @@ go get github.com/nitintf/iptracker
 
 ### Get Your IP Address
 
-Running the `ipaddress` command without any arguments will display both your public and private IP addresses with public address info.
+Running the `iptracker` command without any arguments will display both your public and private IP addresses with public address info.
 
 ```shell
-ipaddress
+iptracker
 ```
 
 ### Track IP Address
@@ -34,5 +34,5 @@ ipaddress
 Use the `track` command to gather information about a specific IP address. Here's the syntax:
 
 ```shell
-ipaddress track [IP Address]
+iptracker track [IP Address]
 ```
